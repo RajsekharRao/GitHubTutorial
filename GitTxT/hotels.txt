@@ -1,0 +1,5 @@
+Big Hotel
+Small Hotel
+Rich Hotel
+Poor Hotel
+
